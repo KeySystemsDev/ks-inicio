@@ -1,0 +1,65 @@
+body {
+     font-family: 'Roboto','Helvetica Neue',Arial,sans-serif;
+}
+a{
+    color: #fff;
+}
+a:hover{
+    text-decoration: none;
+    color: #00466d;
+}
+header.masthead {
+    background-image: url(../img/header-2.jpg);
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto','Helvetica Neue',Arial,sans-serif;
+}
+.box-row{
+        background: rgba(0, 0, 0, 0.2);
+    padding: 50px 30px;
+            box-shadow: 0px 9px 20px rgba(6, 6, 6, 0.61);
+}
+.resposive-img {
+    /* height: auto; */
+    max-width: 100%;
+}
+.p50{
+    padding: 50px;
+}
+.pt10{
+    padding-top: 10px;
+}
+.pt20{
+    padding-top: 20px;
+}
+.pb20{
+    padding-bottom: 20px;
+}
+.text1{
+        font-weight: 100;
+    font-size: 45px;
+}
+.hrks{
+    max-width: 80%;
+    border-width: 1px;
+    border-color: #fff;
+}
+.box-app{
+        padding: 20px;
+    text-align: center;
+    border: 1px solid #fff;
+    border-radius: 5px;
+}
+.box-app:hover{
+    background: #fff;
+    border-radius: 0px;
+}
+.box-app i{
+    font-size: 65px;
+}
+.p-t{
+        font-size: 20px;
+    font-weight: 400;
+    padding-top: 15px;
+    margin-bottom: 0px;
+}
